@@ -8,6 +8,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
+
 Sentiment Analysis is a popular Natural Language Processing (NLP) task that aims to classify the sentiment of a given text as either positive, negative or neutral. In this project, IMDb reviews are used to train and evaluate a Sentiment Analysis model using the oneDAL toolkit from Intel.
 
 The IMDb dataset consists of 5,000 movie reviews, which are labeled as either positive or negative. The oneDAL toolkit is used to preprocess the data and build a Naive Bayes model for sentiment analysis. The oneDAL library provides efficient and optimized algorithms for data preprocessing, feature engineering, and model training, which helps to achieve high accuracy in classification tasks.
@@ -17,6 +18,41 @@ The project involves several steps, including data cleaning, feature extraction,
 After that, the model is trained using the oneDAL library, which provides a scalable and efficient implementation for large datasets. Finally, the model is evaluated on a test dataset to measure its accuracy and performance.
 
 The results of the Sentiment Analysis using oneDAL on IMDb reviews project show that the model achieved high accuracy in classifying the sentiment of the reviews, with an accuracy score of over 80.3%. This project demonstrates the effectiveness of oneDAL library for NLP tasks and highlights its potential in building efficient and accurate machine learning models.
+
+
+
+##NLP Pipeline 
+This is an NLP (Natural Language Processing) pipeline project that focuses on sentiment analysis using the IMDb dataset. The project performs the following steps:
+
+##1. Load dataset
+The IMDb dataset is loaded from the 'IMDB.csv' file.
+
+##2. Data Cleaning
+The dataset reviews are cleaned using the following steps:
+
+Remove HTML tags from the reviews.
+Remove special characters from the reviews.
+Convert all text to lowercase.
+Remove stopwords from the reviews.
+Perform stemming on the words in the reviews.
+
+##3. Model Creation
+The project creates a sentiment analysis model using the following steps:
+
+Creating a Bag of Words (BOW) representation of the cleaned reviews.
+Splitting the data into training and testing sets.
+Defining three Naive Bayes models (GaussianNB, MultinomialNB, and BernoulliNB).
+Training the models on the training data.
+Saving the trained models to disk.
+Making predictions using the trained models on the testing data.
+
+##4.Model Evaluation
+The project evaluates the performance of the models by calculating the accuracy of the predictions on the testing data.
+
+
+
+
+
 
 Intel DevMesh Link - https://devmesh.intel.com/projects/movie-reviews-sentiment-analysis
 
