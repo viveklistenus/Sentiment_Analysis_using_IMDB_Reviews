@@ -70,9 +70,9 @@ This is list of required packages and modules for the project to be installed :
 Human activites dataset contain about 5000 record which is a sample of movie's review<br>
 and a target column "sentiment" which describe the sentiment of the viewer about the movie either it is positove or negative<br>
 <br>**Dataset features and target :**<br>
-![](Images/Dataset_Columns.png)<br>
-<br>**Dataset head :**<br>
-![](Images/Dataset_Head.png)
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/3933cc5e-d891-4fc1-a3c0-637402c7ee12)
+<br>
+
 
 <!-- CODING SECTIONS -->
 ## <br>**➲ Coding Sections**
