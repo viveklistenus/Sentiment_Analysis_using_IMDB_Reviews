@@ -102,39 +102,41 @@ Finally we evaluate the model by getting accuracy, classification report and con
    ```sh
    git clone https://github.com/omaarelsherif/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning.git
    ```
-2. Run the code from cmd
-   ```sh
-   python movie_reviews_sentiment_analysis.py
-   ```
 
 <!-- OUTPUT -->
 ## <br>**➲ Output**
 Now let's see the project output after running the code :
 
 **Dataset head :**<br>
-![](/Images/Output_1_Dataset_Head.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/3933cc5e-d891-4fc1-a3c0-637402c7ee12)
 
-**Dataset after output encoding :**<br>
-![](/Images/Output_2_Dataset_After_Encoding.png)<br><br>
+**Dataset after output encoding :
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/cc6d8e42-7fb6-48f8-a5d4-2108fe10f1b4)
 
 **Review sample after removing HTML tags :**<br>
-![](/Images/Output_3_Review_After_Remove_HTML.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/d2163ca0-2697-4c9b-85b6-cc627fc24220)
 
 **Review sample after removing special characters :**<br>
-![](/Images/Output_4_Review_After_Remove_Special_Chars.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/810a7505-ce63-4169-8677-fef30f318535)
 
 **Review sample after converting words to lowercase :**<br>
-![](/Images/Output_5_Review_After_Converting_To_Lowercase.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/229b29fd-6283-4dd7-a3bf-21f9a7ab8606)
 
 **Review sample after removing stopwords :**<br>
-![](/Images/Output_6_Review_After_Remove_Stopwords.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/51e1c087-58e2-4ea5-8b09-3aee63ba2a5c)
 
 **Review sample after stemming words :**<br>
-![](/Images/Output_7_Review_After_Stemming_Words.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/fd676ee8-eb9d-405e-94c3-b4c1c817fdb3)
+
 
 **Bag Of Words "BOW" and Models accuracy :**<br>
-![](/Images/4.png)<br><br>
-![](/Images/5.png)<br><br>
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/cb23540c-d3d2-4ab6-a7fd-8efae9c67a17)
+
+![image](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/34bb1784-c9e8-4055-a1fc-079793ac72c6)
+
+
+
+
 
 <!-- REFERENCES -->
 ## <br>**➲ References**
