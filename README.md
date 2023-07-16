@@ -21,13 +21,13 @@ The results of the Sentiment Analysis using oneDAL on IMDb reviews project show 
 
 
 
-##NLP Pipeline 
+## NLP Pipeline 
 This is an NLP (Natural Language Processing) pipeline project that focuses on sentiment analysis using the IMDb dataset. The project performs the following steps:
 
-##1. Load dataset
+## 1. Load dataset
 The IMDb dataset is loaded from the 'IMDB.csv' file.
 
-##2. Data Cleaning
+## 2. Data Cleaning
 The dataset reviews are cleaned using the following steps:
 
 Remove HTML tags from the reviews.
@@ -36,7 +36,7 @@ Convert all text to lowercase.
 Remove stopwords from the reviews.
 Perform stemming on the words in the reviews.
 
-##3. Model Creation
+## 3. Model Creation
 The project creates a sentiment analysis model using the following steps:
 
 Creating a Bag of Words (BOW) representation of the cleaned reviews.
@@ -46,7 +46,7 @@ Training the models on the training data.
 Saving the trained models to disk.
 Making predictions using the trained models on the testing data.
 
-##4.Model Evaluation
+## 4.Model Evaluation
 The project evaluates the performance of the models by calculating the accuracy of the predictions on the testing data.
 
 
