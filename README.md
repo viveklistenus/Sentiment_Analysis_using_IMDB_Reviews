@@ -66,11 +66,6 @@ This is list of required packages and modules for the project to be installed :
 * Scikit-learn
 * NLTK
 
-Install all required packages :
- ```sh
-  pip install -r requirements.txt
-  ```
-<!-- THE DATASET -->
 ## <br>**➲ The Dataset**
 Human activites dataset contain about 5000 record which is a sample of movie's review<br>
 and a target column "sentiment" which describe the sentiment of the viewer about the movie either it is positove or negative<br>
