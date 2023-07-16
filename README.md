@@ -2,9 +2,7 @@
 <h1 align="center">Sentiment Analysis using IMDb Reviews</h1>
 
 <!-- HEADER -->
-<p align="center">
-  <img src="Images/Movies_Header.jpg"/>
-</p>
+![thumbnail](https://github.com/viveklistenus/Sentiment_Analysis_using_IMDB_Reviews/assets/28853520/edeb5568-1c06-491b-8849-e786f7fb4c75)
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
